@@ -1,0 +1,9 @@
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\bin\Release\Launcher.exe.config
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\bin\Release\Launcher.exe
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\bin\Release\Launcher.pdb
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\obj\Release\Launcher.CustomMessageBox.resources
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\obj\Release\Launcher.Launcher.resources
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.Cache
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\obj\Release\Launcher.exe
+I:\2TSSIOD\Stage\Launcher\Launcher\Launcher\obj\Release\Launcher.pdb
